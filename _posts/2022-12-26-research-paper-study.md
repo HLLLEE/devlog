@@ -16,6 +16,7 @@ The goal of this game is to move the Bullet next to the Target with the LEAST MO
 - The target of each game is selected randomly.
 - The different colored Bullets are placed randomly. Only Bullets can be moved throughout the game. The Bullet’s direction can only be changed when it encounters the wall, bullet, or a target.
 - The Bullet that has to reach the target should match the color with the Target.
+- The movement of the bullet is counted as number of direction changes of all the bullets.
 
 ### Example
 
